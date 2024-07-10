@@ -93,7 +93,7 @@
                 android:layout_marginTop="-9dp"
                 android:layout_marginRight="7dp"
                 android:textSize="40sp"
-                android:text=">"
+                android:text=">"/>
 
 
         </RelativeLayout>
